@@ -1,0 +1,6 @@
+[2025-08-25 14:19:58] INFO - Epoch 1 | Train Loss (MSE): 0.9895 | Val Loss (MSE): 0.6261
+[2025-08-25 14:20:09] INFO - Epoch 2 | Train Loss (MSE): 0.8155 | Val Loss (MSE): 0.5169
+[2025-08-25 14:20:20] INFO - Epoch 3 | Train Loss (MSE): 0.6814 | Val Loss (MSE): 0.4916
+[2025-08-25 14:20:30] INFO - Epoch 4 | Train Loss (MSE): 0.6406 | Val Loss (MSE): 0.4770
+[2025-08-25 14:20:43] INFO - Epoch 5 | Train Loss (MSE): 0.6218 | Val Loss (MSE): 0.4089
+[2025-08-25 14:20:54] INFO - Epoch 6 | Train Loss (MSE): 0.5982 | Val Loss (MSE): 0.3957
